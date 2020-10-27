@@ -1,5 +1,5 @@
 ### Hi there I am Diane 👋
-## I used to be a fashion designer, and now I am learning computer science at 42.
+#### I used to be a fashion designer, and now I am learning computer science at 42.
 
 - Languages I learn: C, Ruby, RubyOnRails, CSS, HTML, Bootstrap 
 
