@@ -1,8 +1,7 @@
-<!--### Hi there I am Diane 👋-->
+### Hi there I am Diane 👋
+## I used to be a fashion designer, and now I am learning computer science at 42.
 
-
-
-
+- Languages I learn: C, Ruby, RubyOnRails, CSS, HTML, Bootstrap 
 
 <!--
 **dediane/dediane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
