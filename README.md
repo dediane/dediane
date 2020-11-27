@@ -11,7 +11,7 @@ Code gives Super Powers !
 ## Languages & tools I use:
 
 ### Design
-<p><img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-adobe-illustrator-50.png">
+<p><img src="https://github.com/dediane/dediane/blob/main/Cuteicons/icons8-adobe-illustrator-100.png">
 <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-adobe-photoshop-50.png">
 <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-adobe-indesign-50.png"></p>  
 
