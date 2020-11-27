@@ -21,7 +21,7 @@ Code gives Super Powers !
 <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-git-50.png">
 <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-github-50.png">
 <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-heroku-50.png">  
-<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-console-96.png">  
+<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-console-96.png" style="width:50px;">  
 </p>
 
 
