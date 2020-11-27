@@ -10,7 +10,6 @@ Code gives Super Powers !
 
 ## Languages & tools I use:
 
--- **Design tools**       --      **Programming languages**           --          **Dev tools** --
 <p>
 <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-adobe-illustrator-50.png">
 <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-adobe-photoshop-50.png">
