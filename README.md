@@ -26,11 +26,11 @@ I love **UI** and **UX design**, (ex-Fashion Designer) a beautiful front is as i
 </p>
 
 **Dev tools**
-Git & Github.  
-Heroku.  
-Ruby & Ruby on Rails.  
-CSS, HTML & JS.  
-C Bash Shell.  
+
+<p><img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-git-50.png">
+<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-github-50.png">
+<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-heroku-50.png?raw=true">  
+</p>
 
 
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
