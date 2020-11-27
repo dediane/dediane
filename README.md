@@ -21,6 +21,8 @@ I love **UI** and **UX design**, (ex-Fashion Designer) a beautiful front is as i
 
 <p><img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-css3-50.png">
   <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-html-5-50.png">
+  <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-ruby-programming-language-50.png">
+  <img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-c-programming-50.png">
 </p>
 
 **Dev tools**
