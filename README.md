@@ -5,6 +5,7 @@ I love **UI** and **UX design**, (ex-Fashion Designer) a beautiful front is as i
 
 ## Languages & tools I use:
 
+<p><img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-adobe-illustrator-50.png?raw=true">
 Git & Github.  
 Heroku.  
 Ruby & Ruby on Rails.  
