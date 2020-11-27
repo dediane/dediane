@@ -8,15 +8,17 @@ Technologies I use (or) learn:
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
 <p align="center">
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />	
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
+	<img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/bootstrap-plain-wordmark.svg" width="70" height="40" />
+	<img title="Ruby" alt="Ruby" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/ruby-original-wordmark.svg" width="80" height="40" />
+	<img title="Rails" alt="Rails" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/rails-original-wordmark.svg" width="40" height="40" />
+	<img title="C" alt="C" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/c-original.svg" width="40" height="40" />
+	<img title="CSS" alt="ACSS" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/css3-original-wordmark.svg" width="60" height="40" />
+	<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/html5-original-wordmark.svg" width="40" height="40" />
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/git-original.svg" width="40" height="40" />
+	<img title="Github" alt="Github" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/github-original-wordmark.svg" height="40" />
+	<img title="Heroku" alt="Heroku" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/heroku-plain-wordmark.svg height="40" />
+	<img title="Photoshop" alt="Photoshop" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/photoshop-line.svg" width="70" height="40" />
+	<img title="Illustrator" alt="Illustrator" src="https://raw.githubusercontent.com/dediane/dediane/1194d8f96edc640abb9ce6435150f1d19ff5003d/iconset/illustrator-line.svg" width="40" height="40" />	
+	
+	
 </p>
