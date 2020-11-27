@@ -17,18 +17,6 @@ Code gives Super Powers !
 <img src="https://github.com/dediane/dediane/blob/main/Cuteicons/icons8-adobe-photoshop-100.png?raw=true">
 <img src="https://github.com/dediane/dediane/blob/main/Cuteicons/icons8-adobe-indesign-100.png?raw=true"></p>  
 
-### Languages
-<p><img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-css3-50.png">
-<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-html-5-50.png">
-<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-ruby-programming-language-50.png">
-<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-c-programming-50.png"></p>
-
-### Tools 
-<p><img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-git-50.png">
-<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-github-50.png">
-<img src="https://github.com/dediane/dediane/blob/main/Favorites/icons8-heroku-50.png"></p>    
-
-
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
 
