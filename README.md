@@ -40,7 +40,7 @@ Code gives Super Powers !
 
  ### Tools
  <p>
- I <b>use</b>: Git, Github and Heroku.
+ I <b>use</b>: Git, Github, Heroku & Trello.
 <img title="git" alt="git" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/git-original.svg" width="20" height="20" />
 <img title="github" alt="github" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/github-original.svg" width="20" height="20" />
 <img title="heroku" alt="heroku" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/heroku-plain-wordmark.svg" width="20" height="20" />
