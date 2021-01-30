@@ -2,7 +2,7 @@
 
 <h3>Full Stack Developper Ruby on Rails <img title="Ruby" alt="Ruby"src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/ruby-original.svg" width="20" height="20" /></h3> 
 
-I am a student at [**42 Paris**](https://www.42.fr/) and an alumni of [**The Hacking Project**](https://www.thehackingproject.org/).<br>
+I am student at [**42 Paris**](https://www.42.fr/) and alumni of [**The Hacking Project**](https://www.thehackingproject.org/).<br>
 Code gives Super Powers !
 
 
