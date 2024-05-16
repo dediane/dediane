@@ -2,7 +2,7 @@
 
 ## About me
 
-Full stack developer passionate about design, with solid experience in creating web and mobile applications. I bring a creative and technical approach, combining development and design for innovative and aesthetic solutions. As a co-founder of a start-up incubated at Station F for a year, I have significant experience in project management, design, and product development.
+Fullstack developper passionate about design, with solid experience in creating web and mobile applications. I bring a creative and technical approach, combining development and design for innovative and aesthetic solutions. As a co-founder of a start-up incubated at Station F for a year, I have significant experience in project management, design, and product development.
 
 ## Education
 
